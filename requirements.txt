@@ -14,3 +14,5 @@ sentry[postgres]==7.0.2
 # ldap user store
 django-auth-ldap==1.2.4
 
+# integrations
+sentry-flowdock
